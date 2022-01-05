@@ -1,0 +1,30 @@
+# github.com/BurntSushi/toml v0.3.1
+## explicit
+github.com/BurntSushi/toml
+# github.com/bitly/go-simplejson v0.5.0
+## explicit
+github.com/bitly/go-simplejson
+# github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869
+## explicit
+# github.com/davecgh/go-spew v1.1.1
+github.com/davecgh/go-spew/spew
+# github.com/inconshreveable/mousetrap v1.0.0
+github.com/inconshreveable/mousetrap
+# github.com/mozillazg/request v0.8.0
+## explicit
+github.com/mozillazg/request
+# github.com/pmezard/go-difflib v1.0.0
+github.com/pmezard/go-difflib/difflib
+# github.com/spf13/cobra v1.1.1
+## explicit
+github.com/spf13/cobra
+# github.com/spf13/pflag v1.0.5
+github.com/spf13/pflag
+# github.com/stretchr/testify v1.3.0
+## explicit
+github.com/stretchr/testify/assert
+# golang.org/x/net v0.0.0-20201021035429-f5854403a974
+## explicit
+golang.org/x/net/internal/socks
+golang.org/x/net/proxy
+golang.org/x/net/publicsuffix
